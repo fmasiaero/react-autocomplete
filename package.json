@@ -1,6 +1,6 @@
 {
   "name": "react-autocomplete",
-  "version": "1.8.1",
+  "version": "1.9.0",
   "description": "Accessible, extensible, Autocomplete for React.js",
   "main": "./build/lib/Autocomplete.js",
   "files": [
@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactjs/react-autocomplete.git"
+    "url": "https://github.com/fmasiaero/react-autocomplete.git"
   },
-  "homepage": "https://github.com/reactjs/react-autocomplete",
-  "bugs": "https://github.com/reactjs/react-autocomplete/issues",
+  "homepage": "https://github.com/fmasiaero/react-autocomplete",
+  "bugs": "https://github.com/fmasiaero/react-autocomplete/issues",
   "directories": {
     "example": "examples"
   },
@@ -55,10 +55,10 @@
     "lodash.flow": "^3.5.0",
     "lodash.map": "^4.6.0",
     "lodash.sortby": "^4.7.0",
-    "react": "^15.5.4",
+    "react": "^17.0.2",
     "react-docgen": "^2.15.0",
-    "react-dom": "^15.5.4",
-    "react-test-renderer": "^15.5.4",
+    "react-dom": "^17.0.2",
+    "react-test-renderer": "^17.0.2",
     "scripty": "^1.7.1",
     "st": "^1.2.0",
     "uglify-js": "^2.7.5",
